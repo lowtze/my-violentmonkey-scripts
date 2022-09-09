@@ -21,7 +21,7 @@ function addGlobalStyle(css) {
 
 addGlobalStyle(`
 * { background-color: #222222 !important; font-size: max(1em, 12px) !important; } 
-h1, h2, h3, h4, h5, h6, p, ul, ol, li, th, tr, td, div, caption, input { color: white !important; } 
+h1, h2, h3, h4, h5, h6, p, ul, ol, li, th, tr, td, div, caption, input, code { color: white !important; } 
 a, span a, abbr, label, .tpos a { color: #ffcc66 !important; } 
 img, #p-logo a { background-color: white !important; } 
 div { background-image: none !important; } 
